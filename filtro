@@ -1,0 +1,7 @@
+#!/bin/bash
+
+filtro(){
+     sed 's/<.*>//' $1  > $1.txt 
+}
+
+filtro $1
