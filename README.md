@@ -44,7 +44,5 @@ done
 Se presentan las gráficas del Speed-Up y de eficiencia. Podemos observar que con pocos procesos el Speed-up alcanza su lı́mite (rondando el 2.3). Por su
 parte, la eficiencia nos indica que no hay un buen desempeño pues sólo con 2 y 4 procesos la eficiencia es mayor al 50%.
 
-![Speed-Up](timeParallel.png )
-Format: ![Alt Text](url)
-![Eficiencia](timeSecuencial.png)
-Format: ![Alt Text](url)
+![Speed-Up](speedUpTarea02.eps)
+![Eficiencia](eficienciaTare02.eps)
